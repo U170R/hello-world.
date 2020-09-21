@@ -1,2 +1,2 @@
 # hello-world.
-Let's go
+Let's go and code 
